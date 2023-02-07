@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/App/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/App/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/App/vendor/league/route" />
+      <path value="$PROJECT_DIR$/App/vendor/league/event" />
+      <path value="$PROJECT_DIR$/App/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/App/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/App/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/App/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/App/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/App/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/App/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/App/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/App/vendor/laminas/laminas-httphandlerrunner" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/App/vendor/composer" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/App/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/App/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/App/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/App/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/App/vendor/mustache/mustache" />
+      <path value="$PROJECT_DIR$/App/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/App/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/App/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/App/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/App/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/App/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/App/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/App/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/App/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/App/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/App/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/App/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/App/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/App/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/App/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/App/vendor/ramsey/uuid" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

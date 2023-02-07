@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/league/route" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/league/event" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/friendsofphp/php-cs-fixer" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/laminas/laminas-diactoros" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/laminas/laminas-httphandlerrunner" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/options-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/mustache/mustache" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/psr/http-server-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/psr/http-server-middleware" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/php-di/php-di" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/php-di/phpdoc-reader" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/php-di/invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/App/vendor/ramsey/uuid" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
